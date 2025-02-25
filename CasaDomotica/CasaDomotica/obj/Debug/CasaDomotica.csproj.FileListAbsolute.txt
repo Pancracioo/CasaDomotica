@@ -1,0 +1,44 @@
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe.config
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.pdb
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\bin\Debug\Guna.UI2.dll
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.AssemblyReference.cache
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Login.resources
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Main.resources
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Properties.Resources.resources
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.GenerateResource.cache
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.CoreCompileInputs.cache
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomo.580DCFBD.Up2Date
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.exe
+C:\Users\Lab 02\source\repos\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.pdb
+E:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe.config
+E:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe
+E:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.pdb
+E:\CasaDomotica\CasaDomotica\bin\Debug\Guna.UI2.dll
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.AssemblyReference.cache
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Login.resources
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Main.resources
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Properties.Resources.resources
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.GenerateResource.cache
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.CoreCompileInputs.cache
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomo.580DCFBD.Up2Date
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.exe
+E:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.pdb
+E:\CasaDomotica\CasaDomotica\bin\Debug\FontAwesome.Sharp.dll
+F:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe.config
+F:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.exe
+F:\CasaDomotica\CasaDomotica\bin\Debug\CasaDomotica.pdb
+F:\CasaDomotica\CasaDomotica\bin\Debug\FontAwesome.Sharp.dll
+F:\CasaDomotica\CasaDomotica\bin\Debug\Guna.UI2.dll
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.AssemblyReference.cache
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Login.resources
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Main.resources
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Properties.Resources.resources
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.GenerateResource.cache
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.csproj.CoreCompileInputs.cache
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomo.580DCFBD.Up2Date
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.exe
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.pdb
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.FrmMensajes.FrmLuces.resources
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Menu.frmLuces.resources
+F:\CasaDomotica\CasaDomotica\obj\Debug\CasaDomotica.Menu.frmAscensor.resources
